@@ -1,0 +1,5 @@
+.idea
+**/redis_multiprocessing_practice/ref/**
+**/__pycache__/**
+**/ref/**
+.DS_Store

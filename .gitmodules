@@ -1,0 +1,3 @@
+[submodule "redis_on_multiprocessing/libs/Python_Random_Name_Generator"]
+	path = redis_on_multiprocessing/libs/Python_Random_Name_Generator
+	url = git@github.com:armcortex/Python-Random-Name-Generator.git
